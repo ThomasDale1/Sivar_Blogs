@@ -7,5 +7,6 @@ Un blog creado para un curso de Git y GitHub. No está enfocado en la interfaz s
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
+* Un curso muy recomendado
 
 **Este readme.md es una prueba**. No te tomes en serio, mejor mira los archivos y si quieres aprender a usar Git y GitHub toma el [**curso de Git y GitHub de Platzi**](https://platzi.com/clases/git-github/)

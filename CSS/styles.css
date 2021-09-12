@@ -29,7 +29,7 @@ body {
 }
 #cabecera #tagline {
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1em;
     padding: 0 0 0 1em;
 }
 #container h1 {
@@ -40,7 +40,7 @@ body {
     padding: 1em;
 }
 #footer{
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5em;
